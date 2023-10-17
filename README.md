@@ -1,5 +1,9 @@
 # Привет 👋! Меня зовут Алёна
 
+<div align="center">
+ <img src="https://i.imgur.com/OOpRj.gif" width="300"/>
+</div>
+
 Я — начинающий **FrontEnd** разработчик. Мой путь в программировании начался с изучения PascalABC <image src="https://admid.net/uploads/posts/2020-05/1588514097_pascalabcnet.png" alt="Лого PascalABC" width="25px" align="center">
  в старших классах школы, в университете на 1-2 курсе мы использовали
 другие версии Pascal (TurboPascal <image src="https://www.saashub.com/images/app/service_logos/46/55b9772fd64b/large.png?1556282460" alt="Лого TurboPascal" width="25px" align="center">, Delphi <image src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" alt="Лого Delphi" width="25px" align="center">). В качестве практической работы на 3 курсе я выбрала редизайн и добавление более удобного функционала лендинга для спортивной школы г. Туапсе и успешно сдала [её](https://cloud.mail.ru/public/vMZJ/EKRzvEsdh). Какое-то время после этого я не писала никаких кодов, а на последнем курсе мы начали разбирать Python <image src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Лого Python" width="25px" align="center">, и уже это меня заинтересовало. 
@@ -15,10 +19,6 @@
 
 Разрабатывая проекты с использованием Tkinter, которые по сути являлись шаблонами веб-страниц (1. [Симулятор онлайн продуктового магазина](https://github.com/AlenaSv99/Shop-simulator), 2. [Клон дрома для добавления продавцом описания машины и просмотра в режиме онлайн с телефона или компьютера](https://github.com/AlenaSv99/Mustang_sale)), я поняла, что хочу заниматься веб-разработкой в дальнейшем.
 
-<div align="center">
- <img src="https://i.imgur.com/OOpRj.gif" width="300"/>
-</div>
-
 ---
 
 ## Мои социальные сети:
@@ -31,8 +31,6 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="Лого VK"/>
     </a>
 </div>
-
----
 
 ## Языки и инструменты, которыми я владею:
 
@@ -53,8 +51,6 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
     </a>
 </div>
-
----
 
 ## В работе:
 
@@ -93,4 +89,10 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
     </a>
 </div>
+
+
+## Статистика:
+<a href="https://github.com/AlenaSv99" align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaSv99&langs_count=10&title_color=6366f1&text_color=3382ed&icon_color=10b981&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
