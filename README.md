@@ -10,7 +10,7 @@
 
 После окончания университета я работала преподателем различных онлайн-школ. Самостоятельно изучила для преподавания основы Python <image src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Лого Python" width="25px" align="center">, необходимые для базового использования языка.
 
-Владею библиотеками:
+Владею библиотеками Python:
 - :turtle: Turtle
 - :page_facing_up: Tkinter
 - :memo: Requests
