@@ -21,7 +21,7 @@
 
 ---
 
-## Мои социальные сети:
+## :incoming_envelope: Мои социальные сети:
 
 <div id="social-network">
     <a href="https://t.me/ommiple" target="_blank">
@@ -60,7 +60,7 @@
     </a>
 </div>
 
-## В работе:
+## :hammer: В процессе:
 
 <div id="find-out">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -99,7 +99,7 @@
 </div>
 
 
-## Статистика:
+## :milky_way: Статистика:
 <a href="https://github.com/AlenaSv99" align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaSv99&langs_count=10&title_color=6366f1&text_color=3382ed&icon_color=10b981&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
