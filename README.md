@@ -10,14 +10,14 @@
 
 После окончания университета я работала преподателем различных онлайн-школ. Самостоятельно изучила для преподавания основы Python <image src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Лого Python" width="25px" align="center">, необходимые для базового использования языка.
 
-Овладела библиотеками:
+Владею библиотеками:
 - :turtle: Turtle
 - :page_facing_up: Tkinter
 - :memo: Requests
 - :triangular_ruler: Math
 - :calling: TeleBot и Aiogram
 
-Разрабатывая проекты с использованием Tkinter, которые по сути являлись шаблонами веб-страниц (1. [Симулятор онлайн продуктового магазина](https://github.com/AlenaSv99/Shop-simulator), 2. [Клон дрома для добавления продавцом описания машины и просмотра в режиме онлайн с телефона или компьютера](https://github.com/AlenaSv99/Mustang_sale)), я поняла, что хочу заниматься веб-разработкой в дальнейшем.
+Я поняла, что хочу заниматься именно веб-разработкой, когда ощутила кайф от создания проектов на Tkinter, которые по сути являлись шаблонами веб-страниц (1. [Симулятор онлайн продуктового магазина](https://github.com/AlenaSv99/Shop-simulator), 2. [Клон дрома для добавления продавцом описания машины и просмотра в режиме онлайн с телефона или компьютера](https://github.com/AlenaSv99/Mustang_sale)).
 
 ---
 
@@ -40,7 +40,7 @@
 | [Онлайн-интенсив Frontend Start](https://itlogia.ru/)| HTML, CSS, JavaScript, TypeScript, Angular | 17.10.23 - 23.10.23 | [:white_check_mark:](https://sun9-1.userapi.com/impg/wwkZaBI-3agu4MZl5AlFQdABBjlQ9Dk_f5mpXA/znP13AGfmp4.jpg?size=2000x1410&quality=95&sign=69c89be6e6893f8059c0479202bf0148&type=album) |
 | Row 3         |              | [Link](dot.com)   | Cell 9        |
 
-## :wrench: Инструменты, которыми я владею:
+## :wrench: Мои инструменты:
 
 <div id="already-know">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -60,7 +60,7 @@
     </a>
 </div>
 
-## :hammer: В процессе:
+## :hammer: В процессе изучения:
 
 <div id="find-out">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
