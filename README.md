@@ -32,7 +32,15 @@
     </a>
 </div>
 
-## Языки и инструменты, которыми я владею:
+## :bow: Курсы и материалы: 
+| Название      | Инструменты  | Дата прохождения  | Сертификат    |
+|:------------- |:------------ | -----------------:| -------------:|
+| Row 1         |              | **Bold**          | Cell 3        |
+| Row 2         |              | *Italic*          | Cell 6        |
+| Row 3         |              | ~~Strike~~        | Cell 9        |
+| Row 3         |              | [Link](dot.com)   | Cell 9        |
+
+## :wrench: Инструменты, которыми я владею:
 
 <div id="already-know">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
