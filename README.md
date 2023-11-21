@@ -37,8 +37,9 @@
 |:-------------: |:------------: | :-----------------:| :-------------:|
 | [HTML для Начинающих - Практический Курс](https://www.youtube.com/watch?v=DOEtVdkKwcU&t=3825s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)| HTML | 30.08.23 - 31.08.23 | — |
 | [CSS для Начинающих - Практический Курс](https://www.youtube.com/watch?v=SpCUuyZZTp8&t=5450s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)|   CSS | 16.09.23 - 19.09.23 | — | 
-| [Онлайн-интенсив Frontend Start](https://itlogia.ru/)| HTML, CSS, JavaScript, TypeScript, Angular | 17.10.23 - 23.10.23 | [:white_check_mark:](https://sun9-1.userapi.com/impg/wwkZaBI-3agu4MZl5AlFQdABBjlQ9Dk_f5mpXA/znP13AGfmp4.jpg?size=2000x1410&quality=95&sign=69c89be6e6893f8059c0479202bf0148&type=album) |
+| [Интенсив Frontend Start](https://itlogia.ru/)| HTML, CSS, JavaScript, TypeScript, Angular | 17.10.23 - 23.10.23 | [:white_check_mark:](https://sun9-1.userapi.com/impg/wwkZaBI-3agu4MZl5AlFQdABBjlQ9Dk_f5mpXA/znP13AGfmp4.jpg?size=2000x1410&quality=95&sign=69c89be6e6893f8059c0479202bf0148&type=album) |
 | [HTML CSS JS](https://stepik.org/course/135466/info)| HTML, CSS, Figma, JavaScript | 24.10.23 - now | :white_check_mark: |
+| [Интенсив UX/UI Start](https://itlogia.ru/)| Figma | 02.11.23 - 08.11.23 | [:white_check_mark:](https://sun2-19.userapi.com/impg/z32WycG4Tt0_SNZU-C_TJjtSWehWfEOx-jddlg/qJvn_IdL1JA.jpg?size=2000x1410&quality=96&sign=a9632432c668f82417957b67ef00c158&type=album)
 
 ## :wrench: Мои инструменты:
 
