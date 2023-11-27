@@ -1,7 +1,7 @@
 <h1 align="center">✨ Будем знакомы! Меня зовут Алёна ✨</h1>
 
 <div align="center">
- <img src="https://sun9-25.userapi.com/impg/d5h7g0tP9HiHEOv4y5Nsd68AjEZTyXYVt-9HZw/_u33wYHg71U.jpg?size=500x408&quality=96&sign=3209ae145433f8d6ad839005f21e3399&type=album" width="300"/>
+ <img src="https://sun9-32.userapi.com/impg/rq7o8oCEJ7xg_dVALpfZJb2LPNUR8wcV4W85yg/LzlhRukO10c.jpg?size=500x178&quality=96&sign=58521a4cbe4014a2d4ac5d28c9b193a2&type=album" width="300"/>
 </div>
 
 Я — начинающий **FrontEnd** разработчик. Мой путь в программировании начался с изучения PascalABC <image src="https://admid.net/uploads/posts/2020-05/1588514097_pascalabcnet.png" alt="Лого PascalABC" width="25px" align="center">
@@ -18,6 +18,10 @@
 - :calling: TeleBot и Aiogram
 
 Я поняла, что хочу заниматься именно веб-разработкой, когда ощутила кайф от создания проектов на Tkinter, которые по сути являлись шаблонами веб-страниц (1. [Симулятор онлайн продуктового магазина](https://github.com/AlenaSv99/Shop-simulator), 2. [Клон дрома для добавления продавцом описания машины и просмотра в режиме онлайн с телефона или компьютера](https://github.com/AlenaSv99/Mustang_sale)).
+
+<div align="center">
+ <img src="https://sun9-54.userapi.com/impg/k4TyhMTlnn2b5aaD429memZ1xe0lYO9HlfBVPw/BqJGdiyiTuo.jpg?size=500x231&quality=96&sign=3e0825266e95cc19f3c8bc2e0f8fd662&type=album" width="300"/>
+</div>
 
 ---
 
