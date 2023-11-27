@@ -21,7 +21,7 @@
 
 ---
 
-## :incoming_envelope: Мои социальные сети:
+## :incoming_envelope: Мои социальные сети
 
 <div id="social-network">
     <a href="https://t.me/ommiple" target="_blank">
@@ -32,7 +32,7 @@
     </a>
 </div>
 
-## :bow: Курсы и материалы: 
+## :bow: Пройденные урсы и материалы
 | Название       | Инструменты   | Дата прохождения   | Сертификат     |
 |:-------------: |:------------: | :-----------------:| :-------------:|
 | [HTML для Начинающих - Практический Курс](https://www.youtube.com/watch?v=DOEtVdkKwcU&t=3825s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)| HTML | 30.08.23 - 31.08.23 | — |
