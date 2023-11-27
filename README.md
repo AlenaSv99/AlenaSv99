@@ -1,4 +1,4 @@
-<h1 align="center">Будем знакомы! Меня зовут Алёна</h1>
+<h1 align="center">✨ Будем знакомы! Меня зовут Алёна ✨</h1>
 
 <div align="center">
  <img src="https://sun9-25.userapi.com/impg/d5h7g0tP9HiHEOv4y5Nsd68AjEZTyXYVt-9HZw/_u33wYHg71U.jpg?size=500x408&quality=96&sign=3209ae145433f8d6ad839005f21e3399&type=album" width="300"/>
