@@ -4,20 +4,22 @@
  <img src="https://sun9-32.userapi.com/impg/rq7o8oCEJ7xg_dVALpfZJb2LPNUR8wcV4W85yg/LzlhRukO10c.jpg?size=500x178&quality=96&sign=58521a4cbe4014a2d4ac5d28c9b193a2&type=album" width="300"/>
 </div>
 
-Я — начинающий **FrontEnd** разработчик. Мой путь в программировании начался с изучения PascalABC <image src="https://admid.net/uploads/posts/2020-05/1588514097_pascalabcnet.png" alt="Лого PascalABC" width="25px" align="center">
- в старших классах школы, в университете на 1-2 курсе мы использовали
-другие версии Pascal (TurboPascal <image src="https://www.saashub.com/images/app/service_logos/46/55b9772fd64b/large.png?1556282460" alt="Лого TurboPascal" width="25px" align="center">, Delphi <image src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" alt="Лого Delphi" width="25px" align="center">). В качестве практической работы на 3 курсе я выбрала редизайн и добавление более удобного функционала лендинга для спортивной школы г. Туапсе и успешно сдала [её](https://cloud.mail.ru/public/vMZJ/EKRzvEsdh). Какое-то время после этого я не писала никаких кодов, а на последнем курсе мы начали разбирать Python <image src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Лого Python" width="25px" align="center">, и уже это меня заинтересовало. 
+Я — начинающий **FrontEnd** разработчик и **UX / UI** дизайнер. 
 
-После окончания университета я работала преподателем различных онлайн-школ. Самостоятельно изучила для преподавания основы Python <image src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Лого Python" width="25px" align="center">, необходимые для базового использования языка.
+Мой путь в программировании начался с изучения PascalABC <image src="https://admid.net/uploads/posts/2020-05/1588514097_pascalabcnet.png" alt="Лого PascalABC" width="25px" align="center">
+ в старших классах школы. В университете мы использовали
+другие версии Pascal (TurboPascal <image src="https://www.saashub.com/images/app/service_logos/46/55b9772fd64b/large.png?1556282460" alt="Лого TurboPascal" width="25px" align="center">, Delphi <image src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" alt="Лого Delphi" width="25px" align="center">). Моей практической работой на 3 курсе университета был редизайн лендинга спортивной школы в г. Туапсе и добавление ему более удобного функционала. Вы можете ознакомиться с [ней](https://cloud.mail.ru/public/vMZJ/EKRzvEsdh). Какое-то время после этого я не  занималась программированием, а на последнем курсе у нас был Python <image src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Лого Python" width="25px" align="center">, и уже это меня заинтересовало. 
 
-Владею библиотеками Python:
+После окончания университета я работала преподателем различных онлайн-школ. Самостоятельно изучила для работы основы Python <image src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Лого Python" width="25px" align="center">, необходимые для базового использования языка.
+
+Владею библиотеками:
 - :turtle: Turtle
 - :page_facing_up: Tkinter
 - :memo: Requests
 - :triangular_ruler: Math
 - :calling: TeleBot и Aiogram
 
-Я поняла, что хочу заниматься именно веб-разработкой, когда ощутила кайф от создания проектов на Tkinter, которые по сути являлись шаблонами веб-страниц (1. [Симулятор онлайн продуктового магазина](https://github.com/AlenaSv99/Shop-simulator), 2. [Клон дрома для добавления продавцом описания машины и просмотра в режиме онлайн с телефона или компьютера](https://github.com/AlenaSv99/Mustang_sale)).
+Я поняла, что хочу заниматься именно веб-разработкой и оформлением веб-страниц, когда ощутила кайф от создания проектов на Tkinter, которые по сути являлись шаблонами веб-страниц (1. [Симулятор онлайн продуктового магазина](https://github.com/AlenaSv99/Shop-simulator), 2. [Клон дрома для добавления продавцом описания машины и просмотра в режиме онлайн с телефона или компьютера](https://github.com/AlenaSv99/Mustang_sale)).
 
 <div align="center">
  <img src="https://sun9-54.userapi.com/impg/k4TyhMTlnn2b5aaD429memZ1xe0lYO9HlfBVPw/BqJGdiyiTuo.jpg?size=500x231&quality=96&sign=3e0825266e95cc19f3c8bc2e0f8fd662&type=album" width="300"/>
