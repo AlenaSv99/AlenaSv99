@@ -39,70 +39,38 @@
 </div>
 
 ## :bow: Пройденные урсы и материалы
-| Название       | Инструменты   | Дата прохождения   | Сертификат     |
-|:-------------: |:------------: | :-----------------:| :-------------:|
-| [HTML для Начинающих - Практический Курс](https://www.youtube.com/watch?v=DOEtVdkKwcU&t=3825s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)| HTML | 30.08.23 - 31.08.23 | — |
-| [CSS для Начинающих - Практический Курс](https://www.youtube.com/watch?v=SpCUuyZZTp8&t=5450s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)|   CSS | 16.09.23 - 19.09.23 | — | 
-| [Интенсив Frontend Start](https://itlogia.ru/)| HTML, CSS, JavaScript, TypeScript, Angular | 17.10.23 - 23.10.23 | [:white_check_mark:](https://sun9-1.userapi.com/impg/wwkZaBI-3agu4MZl5AlFQdABBjlQ9Dk_f5mpXA/znP13AGfmp4.jpg?size=2000x1410&quality=95&sign=69c89be6e6893f8059c0479202bf0148&type=album) |
-| [HTML CSS JS](https://stepik.org/course/135466/info)| HTML, CSS, Figma, JavaScript | 24.10.23 - now | :white_check_mark: |
-| [Интенсив UX/UI Start](https://itlogia.ru/)| Figma | 02.11.23 - 08.11.23 | [:white_check_mark:](https://sun2-19.userapi.com/impg/z32WycG4Tt0_SNZU-C_TJjtSWehWfEOx-jddlg/qJvn_IdL1JA.jpg?size=2000x1410&quality=96&sign=a9632432c668f82417957b67ef00c158&type=album)
+| Название       | Инструменты   | Сертификат     |
+|:-------------: |:------------: | :-------------:|
+| [HTML для Начинающих - Практический Курс](https://www.youtube.com/watch?v=DOEtVdkKwcU&t=3825s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)| HTML | — |
+| [CSS для Начинающих - Практический Курс](https://www.youtube.com/watch?v=SpCUuyZZTp8&t=5450s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)|   CSS | — | 
+| [Интенсив Frontend Start](https://itlogia.ru/)| HTML, CSS, JavaScript, TypeScript, Angular | [:white_check_mark:](https://sun9-1.userapi.com/impg/wwkZaBI-3agu4MZl5AlFQdABBjlQ9Dk_f5mpXA/znP13AGfmp4.jpg?size=2000x1410&quality=95&sign=69c89be6e6893f8059c0479202bf0148&type=album) |
+| [HTML CSS JS](https://stepik.org/course/135466/info)| HTML, CSS, Figma, JavaScript | :white_check_mark: |
+| [Интенсив UX/UI Start](https://itlogia.ru/)| Figma | [:white_check_mark:](https://sun2-19.userapi.com/impg/z32WycG4Tt0_SNZU-C_TJjtSWehWfEOx-jddlg/qJvn_IdL1JA.jpg?size=2000x1410&quality=96&sign=a9632432c668f82417957b67ef00c158&type=album)
 
-## :wrench: Мои инструменты:
+## :wrench: Мои инструменты
 
-<div id="already-know">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-    </a>
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-    </a>
-    <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-    </a>
+<div >
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </div>
 
-## :hammer: В процессе изучения:
+## :hammer: В процессе изучения
 
-<div id="find-out">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-    </a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
-    </a>
+<div>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
 </div>
 
 
