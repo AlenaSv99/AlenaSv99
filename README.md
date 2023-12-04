@@ -29,9 +29,9 @@
 
 ## :incoming_envelope: Мои социальные сети
 
-<div id="social-network">
+<div>
     <a href="https://t.me/ommiple" target="_blank">
-      <img src="https://seeklogo.com/images/T/telegram-new-2019-simple-logo-FAD5A4800F-seeklogo.com.png" width="40" height="40" alt="linkedin" />
+      <img src="https://seeklogo.com/images/T/telegram-new-2019-simple-logo-FAD5A4800F-seeklogo.com.png" width="40" height="40" alt="Telegram" />
     </a>
     <a href="https://vk.com/chto_ti_delaesh" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="Лого VK"/>
