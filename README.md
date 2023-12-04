@@ -74,7 +74,7 @@
 </div>
 
 
-## :milky_way: Статистика:
+## :milky_way: Статистика
 <a href="https://github.com/AlenaSv99" align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaSv99&langs_count=10&title_color=6366f1&text_color=3382ed&icon_color=10b981&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
